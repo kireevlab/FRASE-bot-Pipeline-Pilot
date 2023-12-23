@@ -1,4 +1,4 @@
-Copyright (C) 2023 Dmitri Kireev
+Copyright (C) 2023 Dmitri Kireev & Kireev Lab at the University of Missouri
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
