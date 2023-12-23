@@ -1,6 +1,6 @@
 FRASE-bot is a collection of protocols developed in Pipeline Pilot, a data processing software featuring its own programming language (Pilot Script). Pipeline Pilot requires a commercial license from 3DS Biovia (www.3ds.com/products-services/biovia/). Pipeline Pilot is a client-server software; client can be run on a Windows computer and server either on Windows or Linux (3DS Biovia provides detailed instructions on system requirements and installation ).
 
-Once Pipeline Pilot installed, the .ppxml files provided in the supplementary file "FRASE-bot-source-code.zip" can be imported and executed. The FRASE-bot workflow steps are separate protocols numbered from 1 to 9. The protocol components have intuitive titles and the Pilot script code within custom manipulators is commented.
+Once Pipeline Pilot installed, the .ppxml files can be imported and executed. The FRASE-bot workflow steps are separate protocols numbered from 1 to 9. The protocol components have intuitive titles and the Pilot script code within custom manipulators is commented.
 
 The input/output files for each component are provided as Mendeley data at https://data.mendeley.com/datasets/9yn47cy5jv/1
 
